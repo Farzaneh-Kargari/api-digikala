@@ -1,0 +1,1384 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "موبایل",
+      "icon": "#Mobile",
+      "image": "./src/images/موبایل.webp",
+      "link": "/Mobile",
+      "allProducts": {
+        "title": "همه محصولات موبایل <",
+        "link": "https://www.digikala.com/search/category-mobile-phone/"
+      },
+
+      "columns": [
+        {
+          "sections": [
+            {
+              "title": "برند های مختلف گوشی موبایل >",
+              "link": "https://www.digikala.com/landing/mobile_brands/",
+              "items": [
+                {
+                  "title": "گوشی سامسونگ",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                },
+                {
+                  "title": "گوشی شیائومی",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                },
+                {
+                  "title": "گوشی نوکیا",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/nokia/?sort=7"
+                },
+                {
+                  "title": "گوشی ریلمی",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/realme/"
+                },
+                {
+                  "title": "گوشی سایفر",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/cypher/"
+                },
+                {
+                  "title": "گوشی آنر",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/honor/"
+                },
+                {
+                  "title": "گوشی هوآوی",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/huawei/"
+                },
+                {
+                  "title": "گوشی داریا",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/daria/"
+                },
+                {
+                  "title": "گوشی موتورولا",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/motorola/"
+                },
+                {
+                  "title": "گوشی آلکاتل",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/alcatel/"
+                },
+                {
+                  "title": "گوشی ردتون",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/redtone/"
+                },
+                {
+                  "title": "گوشی تی سی ال",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/TCL/"
+                },
+                {
+                  "title": "گوشی تی سی اچ",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/tch/"
+                },
+                {
+                  "title": "گوشی وکال",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/vocal/"
+                },
+                {
+                  "title": "گوشی وان پلاس",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/oneplus/"
+                },
+                {
+                  "title": "گوشی پوکو",
+                  "link": "https://www.digikala.com/tags/poco/"
+                },
+                {
+                  "title": "گوشی دوجی",
+                  "link": "https://www.digikala.com/search/category-mobile-phone/doogee/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "گوشی براساس قیمت >",
+              "link": "https://www.digikala.com/search/category-mobile-phone/",
+
+              "items": [
+                {
+                  "title": "گوشی ارزان",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/division-economic/"
+                },
+                {
+                  "title": "گوشی موبایل قسطی",
+                  "link": "https://www.mydigipay.com/credit/mobile/"
+                },
+                {
+                  "title": "گوشی تا  2میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/up-to-29000000/"
+                },
+                {
+                  "title": "گوشی تا 5 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-35000000-up-to-59000000/"
+                },
+                {
+                  "title": "گوشی تا 7 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-55000000-up-to-79000000/"
+                },
+                {
+                  "title": "گوشی تا 10 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-85000000-up-to-109000000/"
+                },
+                {
+                  "title": "گوشی تا 12 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-105000000-up-to-129000000/"
+                },
+                {
+                  "title": "گوشی تا 15 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-135000000-up-to-159000000/"
+                },
+                {
+                  "title": "گوشی تا 20 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-155000000-up-to-209000000/"
+                },
+
+                {
+                  "title": "گوشی تا 25 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-205000000-up-to-259000000/"
+                },
+                {
+                  "title": "گوشی تا 30 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-255000000-up-to-309000000/"
+                },
+                {
+                  "title": "گوشی تا 50 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-400000000-up-to-509000000/"
+                },
+
+                {
+                  "title": "گوشی تا 70 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-mobile-phone/from-500000000-up-to-709000000/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "لوازم جانبی موبایل >",
+              "link": "https://www.digikala.com/search/category-mobile-accessories/",
+              "items": [
+                {
+                  "title": "شارژر گوشی",
+                  "link": "https://www.digikala.com/search/category-car-charger/"
+                },
+                {
+                  "title": "شارژر وایرلس",
+                  "link": "https://www.digikala.com/search/facet/category-car-charger/communication-ports-wireless/"
+                },
+                {
+                  "title": "کابل شارژ تایپ سی",
+                  "link": "https://www.digikala.com/search/facet/category-car-charger/communication-ports-usb-type-c/"
+                },
+                {
+                  "title": "قاب گوشی",
+                  "link": "https://www.digikala.com/search/category-cell-phone-pouch-cover/"
+                },
+                {
+                  "title": "گلس گوشی",
+                  "link": "https://www.digikala.com/search/category-cell-phone-screen-guard/"
+                },
+                {
+                  "title": "شارژر فندکی",
+                  "link": "https://www.digikala.com/search/facet/category-car-charger/car-charger/"
+                },
+                {
+                  "title": "هولدر گوشی موبایل",
+                  "link": "https://www.digikala.com/search/category-cell-phone-holder/"
+                },
+                {
+                  "title": "کابل شارژ و مبدل",
+                  "link": "https://www.digikala.com/search/category-cell-phone-data-cable/"
+                },
+                {
+                  "title": "پاوربانک (شارژر همراه)",
+                  "link": "https://www.digikala.com/search/category-power-bank/"
+                },
+                {
+                  "title": "پاوراستیشن",
+                  "link": "https://www.digikala.com/tags/power-station/"
+                },
+                {
+                  "title": "مونوپاد",
+                  "link": "https://www.digikala.com/tags/monopod/"
+                },
+                {
+                  "title": "کاور ایرپاد",
+                  "link": "https://www.digikala.com/search/facet/category-cell-phone-pouch-cover/compatible-with-mobile-phones-apple-airpod/"
+                },
+                {
+                  "title": "هولدر گردنی",
+                  "link": "https://www.digikala.com/tags/neck-phone-holder/"
+                },
+                {
+                  "title": "فن خنک کننده گوشی",
+                  "link": "https://www.digikala.com/tags/phone-cooler/"
+                },
+                {
+                  "title": "دسته بازی موبایل",
+                  "link": "https://www.digikala.com/tags/mobile-joystick/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "داغ ترین ها >",
+              "link": "https://www.digikala.com/search/category-mobile-phone/product-list/?sort=7",
+              "items": [
+                {
+                  "title": "گوشی s26",
+                  "link": "https://www.digikala.com/tags/samsung-s26/"
+                },
+                {
+                  "title": "آیفون17",
+                  "link": "https://www.digikala.com/tags/iphone-17/"
+                },
+                {
+                  "title": "گوشی s25 سامسونگ",
+                  "link": "https://www.digikala.com/tags/samsung-s25/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "لپ تاپ",
+      "icon": "#Laptop",
+      "image": "./src/images/لپ تاپ.webp",
+      "link": "/laptop",
+      "allProducts": {
+        "title": "همه محصولات لپ تاپ",
+        "link": "https://www.digikala.com/search/category-notebook-netbook-ultrabook/"
+      },
+      "columns": [
+        {
+          "sections": [
+            {
+              "title": "لپ تاپ ایسوس >",
+              "link": "https://www.digikala.com/search/category-notebook-netbook-ultrabook/asus/",
+              "items": [
+                {
+                  "title": "لپ تاپ vivobook",
+                  "link": "https://www.digikala.com/tags/asus-vivobook/"
+                },
+                {
+                  "title": "لپ تاپ zenbook",
+                  "link": "https://www.digikala.com/tags/asus-zenbook/"
+                },
+                {
+                  "title": "لپ تاپ ROG",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                }
+              ]
+            },
+            {
+              "title": "لپ تاپ لنوو >",
+              "link": "https://www.digikala.com/search/category-notebook-netbook-ultrabook/lenovo/",
+              "items": [
+                {
+                  "title": "لپ تاپ v15",
+                  "link": "https://www.digikala.com/tags/lenovo-v15/"
+                },
+                {
+                  "title": "لپ تاپ ideapad 1",
+                  "link": "https://www.digikala.com/tags/lenovo-ideapad-1/"
+                },
+                {
+                  "title": "لپ تاپ thinkpad",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "لپ تاپ گیمینگ >",
+              "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/classification-for-game/",
+              "items": [
+                {
+                  "title": "لپ تاپ گیمینگ ایسوس",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/classification-for-game-asus/"
+                },
+                {
+                  "title": "لپ تاپ گیمینگ لنوو",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/classification-for-game-lenovo/"
+                },
+                {
+                  "title": "لپ تاپ گیمینگ acer",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/classification-for-game-acer/"
+                },
+                {
+                  "title": "لپ تاپ گیمینگ hp",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/classification-for-game-hp/"
+                }
+              ]
+            },
+            {
+              "title": "براساس مدل کارت گرافیک",
+              "link": "https://www.digikala.com/landing/laptop-by-gpu/",
+              "items": [
+                {
+                  "title": "لپ تاپ rtx 2050",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/graphic-processor-model-geforce-rtx-2050/"
+                },
+                {
+                  "title": "لپ تاپ rtx 3050",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/graphic-processor-model-geforce-rtx-3050/"
+                },
+                {
+                  "title": "لپ تاپ rtx 4050",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/graphic-processor-model-geforce-rtx-4050/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "قیمت لپ تاپ >",
+              "link": "https://www.digikala.com/search/category-notebook-netbook-ultrabook/",
+              "items": [
+                {
+                  "title": "لپ تاپ تا 50 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/from-455000000-up-to-509000000/"
+                },
+                {
+                  "title": "لپ تاپ تا 60 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/from-555000000-up-to-609000000/"
+                },
+                {
+                  "title": "لپ تاپ تا 70 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/from-655000000-up-to-709000000/"
+                },
+                {
+                  "title": "لپ تاپ تا 80 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/from-755000000-up-to-809000000/"
+                },
+                {
+                  "title": "لپ تاپ تا 90 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/from-855000000-up-to-909000000/"
+                },
+                {
+                  "title": "لپ تاپ تا 100 میلیون",
+                  "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/from-955000000-up-to-1009000000/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "کالای دیجیتال",
+      "icon": "#DigitalTools",
+      "image": "./src/images/کالای دیجیتال.webp",
+      "link": "/DigitalTools",
+      "allProducts": {
+        "title": "همه محصولات کالای دیجیتال",
+        "link": "https://www.digikala.com/main/electronic-devices/"
+      },
+      "columns": [
+        {
+          "sections": [
+            {
+              "title": "کنسول بازی >",
+              "link": "https://www.digikala.com/search/category-game-console/",
+              "items": [
+                {
+                  "title": "PS5",
+                  "link": "https://www.digikala.com/tags/asus-vivobook/"
+                },
+                {
+                  "title": "PS5 slim",
+                  "link": "https://www.digikala.com/tags/asus-zenbook/"
+                },
+                {
+                  "title": "ps5 pro",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "XBOX",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "Gamestick",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                }
+              ]
+            },
+            {
+              "title": "گیمینگ >",
+              "link": "https://www.digikala.com/landing/gaming/",
+              "items": [
+                {
+                  "title": "ست گیمینگ",
+                  "link": "https://www.digikala.com/tags/lenovo-v15/"
+                },
+                {
+                  "title": "دسته بازی",
+                  "link": "https://www.digikala.com/tags/lenovo-ideapad-1/"
+                },
+                {
+                  "title": "بازی PS4",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                },
+                {
+                  "title": "بازی PS5",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "هدفون >",
+              "link": "https://www.digikala.com/search/category-headphone/",
+              "items": [
+                {
+                  "title": "هدفون بی سیم",
+                  "link": "https://www.digikala.com/tags/asus-vivobook/"
+                },
+                {
+                  "title": "هدفون گیمینگ",
+                  "link": "https://www.digikala.com/tags/asus-zenbook/"
+                },
+                {
+                  "title": "هدفون انکر",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "هدفون سونی",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "هدفون سیائومی",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "هدفون سامسونگ",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                }
+              ]
+            },
+            {
+              "title": "پرینتر >",
+              "link": "https://www.digikala.com/search/category-printer/",
+              "items": [
+                {
+                  "title": "پرینتر رنگی",
+                  "link": "https://www.digikala.com/tags/lenovo-v15/"
+                },
+                {
+                  "title": "پرینتر لیبل زن",
+                  "link": "https://www.digikala.com/tags/lenovo-ideapad-1/"
+                },
+                {
+                  "title": "پرینتر حرارتی",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                },
+                {
+                  "title": "پرینتر سه بعدی",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "هدفون >",
+              "link": "https://www.digikala.com/search/category-headphone/",
+              "items": [
+                {
+                  "title": "هدفون بی سیم",
+                  "link": "https://www.digikala.com/tags/asus-vivobook/"
+                },
+                {
+                  "title": "هدفون گیمینگ",
+                  "link": "https://www.digikala.com/tags/asus-zenbook/"
+                },
+                {
+                  "title": "هدفون انکر",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "هدفون سونی",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "هدفون سیائومی",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                },
+                {
+                  "title": "هدفون سامسونگ",
+                  "link": "https://www.digikala.com/tags/rog-laptops/"
+                }
+              ]
+            },
+            {
+              "title": "پرینتر >",
+              "link": "https://www.digikala.com/search/category-printer/",
+              "items": [
+                {
+                  "title": "پرینتر رنگی",
+                  "link": "https://www.digikala.com/tags/lenovo-v15/"
+                },
+                {
+                  "title": "پرینتر لیبل زن",
+                  "link": "https://www.digikala.com/tags/lenovo-ideapad-1/"
+                },
+                {
+                  "title": "پرینتر حرارتی",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                },
+                {
+                  "title": "پرینتر سه بعدی",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "خانه و آشپزخانه",
+      "icon": "#HomeAndKitchen",
+      "image": "./src/images/خانه و اشپزخانه.webp",
+      "link": "/homeandkitchen",
+      "allProducts": {
+        "title": "همه محصولات خانه و آشپزخانه",
+        "link": "https://www.digikala.com/main/home-and-kitchen/"
+      },
+      "columns": [
+        {
+          "sections": [
+            {
+              "title": "ظروف پخت و پز >",
+              "link": "https://www.digikala.com/search/category-cooking-dishes/",
+              "items": [
+                {
+                  "title": "قابلمه و تابه",
+                  "link": "https://www.digikala.com/search/category-pots-pans/"
+                },
+                {
+                  "title": "زودپز",
+                  "link": "https://www.digikala.com/search/category-pressurecooker/"
+                },
+                {
+                  "title": "سرویس پخت و پز",
+                  "link": "https://www.digikala.com/search/category-pots-pans/"
+                }
+              ]
+            },
+            {
+              "title": "ابزار آشپزی >",
+              "link": "https://www.digikala.com/search/category-cooking-tools/",
+              "items": [
+                {
+                  "title": "قیف",
+                  "link": "https://www.digikala.com/search/category-funnel/"
+                },
+                {
+                  "title": "چاقو",
+                  "link": "https://www.digikala.com/search/category-Cooking-knife/"
+                },
+                {
+                  "title": "گردوشکن",
+                  "link": "https://www.digikala.com/tags/thinkpad-laptop/"
+                },
+                {
+                  "title": "صافی",
+                  "link": "https://www.digikala.com/search/category-virgo-1/"
+                },
+                {
+                  "title": "فندک آشپزخانه",
+                  "link": "https://www.digikala.com/search/category-kitchenlighter/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "مبل >",
+              "link": "https://www.digikala.com/search/category-sofa/",
+              "items": [
+                {
+                  "title": "مبل راحتی",
+                  "link": "https://www.digikala.com/tags/sofa/"
+                },
+                {
+                  "title": "بادی",
+                  "link": "https://www.digikala.com/tags/sofa/"
+                },
+                {
+                  "title": "تختخواب شو",
+                  "link": "https://www.digikala.com/tags/Sofa-bed/"
+                },
+                {
+                  "title": "مبل اداری",
+                  "link": "https://www.digikala.com/search/category-waiting-chair/"
+                },
+                {
+                  "title": "صندلی کودک",
+                  "link": "https://www.digikala.com/search/category-childrens-bedroom-furniture/"
+                },
+                {
+                  "title": "مبل مینیمال",
+                  "link": "https://www.digikala.com/tags/Minimal-sofa/"
+                }
+              ]
+            },
+            {
+              "title": "دکوراسیون خانگی >",
+              "link": "https://www.digikala.com/search/category-household-furniture/",
+              "items": [
+                {
+                  "title": "کتابخانه",
+                  "link": "https://www.digikala.com/search/category-home-library/"
+                },
+                {
+                  "title": "کنسول",
+                  "link": "https://www.digikala.com/search/category-console/"
+                },
+                {
+                  "title": "صندلی",
+                  "link": "https://www.digikala.com/search/category-counter-chair/"
+                },
+                {
+                  "title": "میز تلویزیون",
+                  "link": "https://www.digikala.com/search/category-tv-tables/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sections": [
+            {
+              "title": "حمام >",
+              "link": "https://www.digikala.com/search/category-bathroom/",
+              "items": [
+                {
+                  "title": "حوله",
+                  "link": "https://www.digikala.com/search/category-towel/"
+                },
+                {
+                  "title": "دمپایی",
+                  "link": "https://www.digikala.com/search/category-slippers/"
+                },
+                {
+                  "title": "پرده حمام",
+                  "link": "https://www.digikala.com/search/category-showercurtains/"
+                },
+                {
+                  "title": "ابزار حمام",
+                  "link": "https://www.digikala.com/search/category-bathtools/"
+                },
+                {
+                  "title": "لیف",
+                  "link": "https://www.digikala.com/search/category-washingmitt/"
+                }
+              ]
+            },
+            {
+              "title": "تهیه و سرو چای و قهوه >",
+              "link": "https://www.digikala.com/search/category-kettleandteapot/",
+              "items": [
+                {
+                  "title": "قهوه ساز و دمنوش ساز",
+                  "link": "https://www.digikala.com/search/category-coffee-and-herbal-tea-maker/"
+                },
+                {
+                  "title": "سماور",
+                  "link": "https://www.digikala.com/search/category-samovar/"
+                },
+                {
+                  "title": "قوری",
+                  "link": "https://www.digikala.com/search/category-kettlteapot/"
+                },
+                {
+                  "title": "کتری",
+                  "link": "https://www.digikala.com/search/category-kettlteapot/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "لوازم خانگی برقی",
+      "icon": "#Electrical",
+      "image": "./src/images/لوازم خانگی برقی.webp",
+      "columns": []
+    },
+    {
+      "id": 6,
+      "title": "آرایشی بهداشتی",
+      "icon": "#PersonalCare",
+      "image": "./src/images/آرایشی و بهداشتی.webp",
+      "columns": []
+    },
+    {
+      "id": 7,
+      "title": "مد و پوشاک",
+      "icon": "#Clothes",
+      "image": "./src/images/مد و پوشاک.webp",
+      "columns": []
+    },
+    {
+      "id": 8,
+      "title": "طلا و نقره",
+      "icon": "#GoldAndMetal",
+      "image": "./src/images/طلا و نقره.webp",
+      "columns": []
+    },
+    {
+      "id": 9,
+      "title": "خودرو و موتورسیکلت",
+      "icon": "#Cars",
+      "image": "./src/images/خودرو و موتور سیکلت.webp",
+      "columns": []
+    },
+    {
+      "id": 10,
+      "title": "سلامت و پزشکی",
+      "icon": "#Health",
+      "image": "./src/images/سلامت و پزشکی.webp",
+      "columns": []
+    },
+    {
+      "id": 11,
+      "title": "ابزارآلات و تجهیزات",
+      "icon": "#ToolsAndEquipment",
+      "image": "./src/images/ابزار آلات و تجهیزات.webp",
+      "columns": []
+    },
+    {
+      "id": 12,
+      "title": "کتاب و هنر",
+      "icon": "#Art",
+      "image": "./src/images/کتاب و هنر.webp",
+      "columns": []
+    },
+    {
+      "id": 13,
+      "title": "ورزش و سفر",
+      "icon": "#SportAndTrip",
+      "image": "./src/images/ورزش و سفر.webp",
+      "columns": []
+    },
+    {
+      "id": 14,
+      "title": "کارت هدیه و گیفت کارت",
+      "icon": "#GiftCard",
+      "image": "./src/images/کارت هدیه و گیفت کارت.webp",
+      "columns": []
+    },
+    {
+      "id": 15,
+      "title": "سوپرمارکت آنلاین",
+      "icon": "#OnlineShop",
+      "image": "./src/images/سوپرمارکت آنلاین.webp",
+      "columns": []
+    },
+    {
+      "id": 16,
+      "title": "اسباب بازی،کودک و نوزاد",
+      "icon": "#Toys",
+      "image": "./src/images/اسباب بازی.webp",
+      "columns": []
+    },
+    {
+      "id": 17,
+      "title": "محصولات بومی و محلی",
+      "icon": "#Local",
+      "image": "./src/images/محصولات بومی.webp",
+      "columns": []
+    },
+    {
+      "id": 18,
+      "title": "پت شاپ",
+      "icon": "#PetShop",
+      "image": "./src/images/پت شاپ.webp",
+      "columns": []
+    }
+  ],
+  "hero": [
+    {
+      "id": 1,
+      "image": "./images/image-1.png"
+    },
+    {
+      "id": 2,
+      "image": "./images/image-2.png"
+    },
+    {
+      "id": 3,
+      "image": "./images/image-3.png"
+    },
+    {
+      "id": 4,
+      "image": "./images/image-4.png"
+    },
+    {
+      "id": 5,
+      "image": "./images/image-5.png"
+    },
+    {
+      "id": 6,
+      "image": "./images/image-6.png"
+    },
+    {
+      "id": 7,
+      "image": "./images/image-7.png"
+    },
+    {
+      "id": 8,
+      "image": "./images/image-8.png"
+    },
+    {
+      "id": 9,
+      "image": "./images/image-9.png"
+    }
+  ],
+  "Vitamins": [
+    {
+      "id": 1,
+      "description": "قرص ویتامین D3-1000 واحدی  بسته 60 عددی",
+      "image": "/images/vitamin-1.png",
+      "price": "140000"
+    },
+    {
+      "id": 2,
+      "description": "کپسول روغن ماهی امگا 3 فاقد جیوه فرمولیتد ساینسز بسته 30 عددی",
+      "image": "/images/vitamin-2.png",
+      "price": "369260"
+    },
+    {
+      "id": 3,
+      "description": "کپسول ژلاتینی نرم زینک پلاس فلکسان بسته 60 عددی",
+      "image": "/images/vitamin-3.png",
+      "price": "149000"
+    },
+    {
+      "id": 4,
+      "description": "کپسول ب کمپلکس آپوویتال بسته 40 عددی",
+      "image": "/images/vitamin-4.png",
+      "price": "99000"
+    },
+    {
+      "id": 5,
+      "description": "ساشه انرژی سان یوروویتال بسته 30 عددی",
+      "image": "/images/vitamin-5.png",
+      "price": "99000"
+    },
+    {
+      "id": 6,
+      "description": "قرص زینک پلاس پابا یوروویتال بسته 60 عددی",
+      "image": "/images/vitamin-6.png",
+      "price": "299000"
+    },
+    {
+      "id": 7,
+      "description": "سافت ژل امگا 3 وانا مکس نورم لایف بسته 60 عددی ",
+      "image": "/images/vitamin-7.png",
+      "price": "640000"
+    },
+    {
+      "id": 8,
+      "description": "کپسول منیزیم پلاس د3 و کا2 یوروویتال بسته 60 عددی",
+      "image": "/images/vitamin-8.png",
+      "price": "510000"
+    },
+    {
+      "id": 9,
+      "description": "کپسول ماکاویت اف یورو ویتال بسته 60 عددی ",
+      "image": "/images/vitamin-9.png",
+      "price": "150000"
+    },
+    {
+      "id": 10,
+      "description": "کپسول فرودین هولیستیکا بسته 32 عددی ",
+      "image": "/images/vitamin-10.png",
+      "price": "203740"
+    }
+  ],
+  "classification": [
+    {
+      "id": 1,
+      "image": "/images/ابزارآلات.png",
+      "title": "ابزارآلات"
+    },
+    {
+      "id": 2,
+      "image": "/images/بازی کودک.png",
+      "title": "اسباب‌بازی و کودک"
+    },
+    {
+      "id": 3,
+      "image": "/images/بهداشتی.png",
+      "title": "آرایشی بهداشتی"
+    },
+    {
+      "id": 4,
+      "image": "/images/بومی و محلی.png",
+      "title": "بومی و محلی"
+    },
+    {
+      "id": 5,
+      "image": "/images/خانه و آشپزخانه.png",
+      "title": "خانه و آشپزخانه"
+    },
+    {
+      "id": 6,
+      "image": "/images/سلامتی.png",
+      "title": "پزشکی و سلامتی"
+    },
+    {
+      "id": 7,
+      "image": "/images/سوپرمارکتی.png",
+      "title": "سوپرمارکتی"
+    },
+    {
+      "id": 8,
+      "image": "/images/طلاونقره.png",
+      "title": "طلا و نقره"
+    },
+    {
+      "id": 9,
+      "image": "/images/فرهنگ و هنر.png",
+      "title": "شهر کتاب و هنر"
+    },
+    {
+      "id": 10,
+      "image": "/images/لوازم ورزشی.png",
+      "title": "ورزش و سفر"
+    },
+    {
+      "id": 11,
+      "image": "/images/لوزم برقی خانگی.png",
+      "title": "لوازم خانگی برقی"
+    },
+    {
+      "id": 12,
+      "image": "/images/لپ تاپ.png",
+      "title": "لپ تاپ"
+    },
+    {
+      "id": 13,
+      "image": "/images/مئتورسیکلت.png",
+      "title": "موتورسیکلت"
+    },
+    {
+      "id": 14,
+      "image": "/images/موبایل.png",
+      "title": "موبایل"
+    },
+    {
+      "id": 15,
+      "image": "/images/پت شاپ.png",
+      "title": "پت شاپ"
+    },
+    {
+      "id": 16,
+      "image": "/images/کارت هدیه.png",
+      "title": "کارت هدیه"
+    },
+    {
+      "id": 17,
+      "image": "/images/کالای دیجیتال.png",
+      "title": "کالای دیجیتال"
+    },
+    {
+      "id": 18,
+      "image": "/images/پوشاک.png",
+      "title": "مد و پوشاک"
+    }
+  ],
+  "offbanner1": [
+    {
+      "id": 1,
+      "image": "/images/banner-1.png"
+    },
+    {
+      "id": 2,
+      "image": "/images/banner-2.png"
+    }
+  ],
+  "mobilecover": [
+    {
+      "id": 1,
+      "image": "/images/cover-1.png",
+      "description": " کاور مدل ژله ای کپسول دار مناسب برای گوشی موبایل شیائومی POCO X3 / pocox3 / X3 PRO / X3PRO",
+      "price": "269000"
+    },
+    {
+      "id": 2,
+      "description": "کاور قاب گارد کی -زد دو مدل ares sport مناسب برای گوشی موبایل اپل iPhone 17 promax ",
+      "image": "/images/cover-2.png",
+      "price": "2530000"
+    },
+    {
+      "id": 3,
+      "description": "کاور مدل BLKN مناسب برای گوشی موبایل سامسونگ Galaxy A10",
+      "image": "/images/cover-3.png",
+      "price": "45000"
+    },
+    {
+      "id": 4,
+      "description": "کاور مدل A12_IML مناسب برای گوشی موبایل سامسونگ Galaxy A12",
+      "image": "/images/cover-4.png",
+      "price": "146000"
+    },
+    {
+      "id": 5,
+      "description": "کاور موکولو مدل Silicone Puffer Strap مناسب برای گوشی موبایل شیائومی Poco F5/ Redmi Note 12 Turbo به همراه بند",
+      "image": "/images/cover-5.png",
+      "price": "730000"
+    },
+    {
+      "id": 6,
+      "description": "کاور مدل سیلیکونی مناسب برای گوشی موبایل اپل  Iphone 16pro max",
+      "image": "/images/cover-6.png",
+      "price": "269000"
+    },
+    {
+      "id": 7,
+      "description": "کاور مدل A12-SILIC مناسب برای گوشی موبایل سامسونگ Galaxy A12",
+      "image": "/images/cover-7.png",
+      "price": "190000"
+    },
+    {
+      "id": 8,
+      "description": "کاور مدل سیلیکونی مناسب برای گوشی موبایل اپل iPhone 13",
+      "image": "/images/cover-8.png",
+      "price": "420000"
+    },
+    {
+      "id": 9,
+      "description": "کاور سامورایی مدل Standra مناسب برای گوشی موبایل شیائومی Poco X7 Pro",
+      "image": "/images/cover-9.png",
+      "price": "1380000"
+    },
+    {
+      "id": 10,
+      "description": " کاور موفی مدل Magsafe_11 مناسب برای گوشی موبایل اپل iPhone 11 به همراه محافظ لنز دوربین",
+      "image": "/images/cover-10.png",
+      "price": "1075000"
+    }
+  ],
+  "offbanner2": [
+    {
+      "id": 1,
+      "image": "/images/banner1.png"
+    },
+    {
+      "id": 2,
+      "image": "/images/banner2.png"
+    }
+  ],
+  "caraccessories": [
+    {
+      "id": 1,
+      "description": "جامپ استارتر و پمپ باد و پاوربانک فاکسسور مدل FJS-650 ظرفیت 6000 میلی آمپر ساعت",
+      "image": "/images/car-1.png",
+      "price": "4550000"
+    },
+    {
+      "id": 2,
+      "description": "بخاری فندکی خودرو مدل CC2-12V",
+      "image": "/images/car-2.png",
+      "price": "2100000"
+    },
+    {
+      "id": 3,
+      "description": "سرباتری خودرو مدل 2in1-b2 مجموعه 2عددی",
+      "image": "/images/car-3.png",
+      "price": "944700"
+    },
+    {
+      "id": 4,
+      "description": "قیف خودرو مدل ZA-GHR1",
+      "image": "/images/car-4.png",
+      "price": "148200"
+    },
+    {
+      "id": 5,
+      "description": "نوار درزگیر درب خودرو مدل 5متری",
+      "image": "/images/car-5.png",
+      "price": "365000"
+    },
+    {
+      "id": 6,
+      "description": "تستر فیوز خودرو کارتول مدل KH1-1",
+      "image": "/images/car-6.png",
+      "price": "300000"
+    },
+    {
+      "id": 7,
+      "description": "چسب پارچه ای سیم کشی خودرو کروپلاست مدل نمدی نسوز کدCR2",
+      "image": "/images/car-7.png",
+      "price": "170830"
+    },
+    {
+      "id": 8,
+      "description": "تستر فیوز خودرو مدل 65384 بسته 13 عددی",
+      "image": "/images/car-8.png",
+      "price": "340000"
+    },
+    {
+      "id": 9,
+      "description": "شاخ تزئینی روی مانیتور  مدل RC مناسب برای 207 مجموعه 2 عددی",
+      "image": "/images/car-9.png",
+      "price": "77000"
+    },
+    {
+      "id": 10,
+      "description": "گل پخش کن مدل AR مناسب ساینا مجموعه 4 عددی",
+      "image": "/images/car-10.png",
+      "price": "630000"
+    }
+  ],
+  "BestSellers": [
+    {
+      "id": 1,
+      "image": "/images/bestseller-1.png",
+      "description": "تابلو خندالو مدل خرس تدی کد F1536",
+      "num": 1
+    },
+    {
+      "id": 2,
+      "description": "تابلو خندالو مدل گوجو ساتورو انیمه جوجوتسو کایزن کد F1576",
+      "image": "/images/bestseller-2.png",
+      "num": 2
+    },
+    {
+      "id": 3,
+      "description": "تابلو خندالو مدل بره ناقلا کد F1586",
+      "image": "/images/bestseller-3.png",
+      "num": 3
+    },
+    {
+      "id": 4,
+      "description": "تابلو خندالو مدل ماهی قرمز کد F4814",
+      "image": "/images/bestseller-4.png",
+      "num": 4
+    },
+    {
+      "id": 5,
+      "description": "تابلو  نوری بکلیت مدل B-bu2604 طرح معماری ایرانی حرم امام رضا (ع)",
+      "image": "/images/bestseller-5.png",
+      "num": 5
+    },
+    {
+      "id": 6,
+      "description": "کاور اسپارتان مدل Magnet Ring Strap مناسب برای گوشی موبایل ویوو X100 Pro به همراه بند آویز",
+      "image": "/images/bestseller-6.png",
+      "num": 6
+    },
+    {
+      "id": 7,
+      "description": "تابلو خندالو مدل سفالگری کد F1484",
+      "image": "/images/bestseller-7.png",
+      "num": 7
+    },
+    {
+      "id": 8,
+      "description": " محافظ صفحه نمایش ضد اشعه بنفش  ریمکس مدل Resistant مناسب برای گوشی موبایل هوآوی nova 7i",
+      "image": "/images/bestseller-8.png",
+      "num": 8
+    },
+    {
+      "id": 9,
+      "description": "تابلو خندالو مدل دکوراتیو (decorative) کد F1545",
+      "image": "/images/bestseller-9.png",
+      "num": 9
+    },
+    {
+      "id": 10,
+      "description": "تابلو خندالو مدل فضایی کد F4699",
+      "image": "/images/bestseller-10.png",
+      "num": 10
+    },
+    {
+      "id": 11,
+      "description": "تابلو خندالو مدل دخترانه کد F4784",
+      "image": "/images/bestseller-11.png",
+      "num": 11
+    },
+    {
+      "id": 12,
+      "description": "تابلو خندالو مدل ماه تولد آبان کد F1558",
+      "image": "/images/bestseller-12.png",
+      "num": 12
+    },
+    {
+      "id": 13,
+      "description": "تابلو خندالو مدل دکتر استرنج مارول (Marvel) کد F4754",
+      "image": "/images/bestseller-13.png",
+      "num": 13
+    },
+    {
+      "id": 14,
+      "description": "کاور مگافون کد 8108 مناسب برای گوشی موبایل سامسونگ Galaxy S7 Edge",
+      "image": "/images/bestseller-14.png",
+      "num": 14
+    },
+    {
+      "id": 15,
+      "description": "کاور مگافون کد 8106 مناسب برای گوشی موبایل سامسونگ Galaxy S7",
+      "image": "/images/bestseller-15.png",
+      "num": 15
+    }
+  ],
+  "suggestion": [
+    {
+      "id": 1,
+      "image": "/images/suggestion-1.png",
+      "description": "کپسول منیزیم پلاس د3 و کا2 یوروویتال بسته 60 عددی",
+      "price": "520000"
+    },
+    {
+      "id": 2,
+      "image": "/images/suggestion-2.png",
+      "description": "قیف خودرو چندکاره مناسب تمام خودروها با لوله خرطومی 35 سانتی‌متری، ساخته شده از پلاستیک مرغوب، دارای توری در دهانه، دسته روی بدنه، مناسب برای ریختن روغن موتور، بنزین، گازوئیل و ضدیخ مدل ZA-GHR1",
+      "price": "147000"
+    },
+    {
+      "id": 3,
+      "image": "/images/suggestion-3.png",
+      "description": "کتاب نازنین اثر فیودور داستایوسکی نشر چشمه",
+      "price": "162370"
+    },
+    {
+      "id":4,
+      "image":"/images/suggestion-4.png",
+      "description":"پد پاک کننده آرایش رایا کد 01 مجموعه 2 عددی",
+      "price":"153000"
+    },
+    {
+      "id":5,
+      "image":"/images/suggestion-5.png",
+      "description":"فوم شست‌وشوی صورت ویتالیر مدل سنسی ویت مناسب پوست حساس حجم 150 میلی‌لیتر",
+      "price":"273850"
+    },
+    {
+      "id":6,
+      "image":"/images/suggestion-6.png",
+      "description":"گوشی موبایل آنر مدل 600 Lite دو سیم‌کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+      "price":"139000000"
+    },
+    {
+      "id":7,
+      "image":"/images/suggestion-7.png",
+      "description":"کاور قاب شهر مدل PRDSIGN مناسب برای گوشی موبایل سامسونگ Galaxy A32 4G",
+      "price":"390000"
+    },
+    {
+      "id":8,
+      "image":"/images/suggestion-8.png",
+      "description":"کرم مرطوب کننده ماکسیمیلیان مدل شی باتر حجم 75 میلی لیتر ",
+      "price":"118200"
+    },
+    {
+      "id":9,
+      "image":"/images/suggestion-9.png",
+      "description":"کاور مدل New Skin مناسب برای گوشی موبایل سامسونگ Galaxy A14",
+      "price":"110000"
+    },
+    {
+      "id":10,
+      "image":"/images/suggestion-10.png",
+      "description":"کاور جی کی کی مدل Armor Shield مناسب برای گوشی موبایل شیائومی Redmi Note 9S / Note 9 Pro / Note 9 Pro Max",
+      "price":"387000"
+    },
+    {
+      "id":11,
+      "image":"/images/suggestion-11.png",
+      "description":"کانکتور ترمینال باتری خودرو 2in1-b2 مجموعه 2 عددی با طراحی 4 طرفه، مقاومت بالا در برابر خوردگی، مناسب سیستم صوتی قوی، شامل واشر فیبر ضد خوردگی و آچار آلن، نصب آسان و اتصال محکم",
+      "price":"944700"
+    },
+    {
+      "id":12,
+      "image":"/images/suggestion-12.png",
+      "description":"هدفون بلوتوثی ریولینک مدل HENA2/Pro2ٍ",
+      "price":"1889990"
+    },
+    {
+      "id":13,
+      "image":"/images/suggestion-13.png",
+      "description":"کرم مرطوب کننده دست و صورت مراگلو  مدل potato مناسب انوع پوست حجم 75 میلی لیتر",
+      "price":"69900"
+    },
+    {
+      "id":14,
+      "image":"/images/suggestion-14.png",
+      "description":"قرص جوشان ال آرژنین 1000 میلی گرم یوروویتال بسته 20 عددی مناسب بزرگسالان با خاصیت تقویت سیستم ایمنی و رفع گرفتگی عضلانی",
+      "price":"61000"
+    },
+    {
+      "id":15,
+      "image":"/images/suggestion-15.png",
+      "description":"کرم دست فوق مغذی و آبرسان مورینگا اِمو مدل 2 مخصوص پوست خشک و حساس، حاوی روغن آرگان و ویتامین E، بافت سبک و جذب سریع، حجم 250 میلی‌لیتر",
+      "price":"353000"
+    },
+    {
+      "id":16,
+      "image":"/images/suggestion-16.png",
+      "description":"کتاب رومئو و ژولیت اثر ویلیام شکسپیر ترجمه زهرا محمدی انتشارات یارنیک",
+      "price":"150000"
+    },
+    {
+      "id":17,
+      "image":"/images/suggestion-17.png",
+      "description":"کاور مدل ژله ای مناسب برای گوشی موبایل سامسونگ Galaxy A01",
+      "price":"40000"
+    },
+    {
+      "id":18,
+      "image":"/images/suggestion-18.png",
+      "description":"کپسول روغن ماهی امگا 3 کارن مدل 1000 با 300 میلی‌گرم امگا 3، کمک به سلامت قلب و عروق، کاهش کلسترول و التهاب، بسته 50 عددی",
+      "price":"610000"
+    },
+    {
+      "id":19,
+      "image":"/images/suggestion-19.png",
+      "description":"قرص ویتامین D3 یوروویتال مدل 1000 واحدی بسته 60 عددی تقویت سیستم ایمنی و افزایش استحکام استخوان‌ها، ساخت آلمان",
+      "price":"120600"
+    },
+    {
+      "id":20,
+      "image":"/images/suggestion-20.png",
+      "description":"تستر فیوز خودرو مدل 65384 بسته 13 عددی شامل پیچ گوشتی تستر، سیم تست سوسماری و فیوزهای 3، 5، 7.5، 10، 15، 20، 25 و 30 آمپر مناسب برای پژو 206، پژو 405 و پژو پارس",
+      "price":"537000"
+    },
+    {
+      "id":21,
+      "image":"/images/suggestion-21.png",
+      "description":"نوار درزگیر و عایق صداگیر دولایه درب خودرو 4.5 متری با چسب 2 طرفه، مقاوم در برابر آب و گرد و غبار، کاهش نفوذ صدا و عایق حرارتی مناسب برای انواع خودروهای داخلی و خارجی",
+      "price":"372000"
+    }
+  ]
+}
